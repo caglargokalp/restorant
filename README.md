@@ -1,6 +1,6 @@
 <h1>Restorant web sitesi </H1>
 
-Restoran tanıtımı  ürünler ve fiyatların bulunduğu veb sitesi
+Restoran tanıtımı  ürünler ve fiyatların bulunduğu web sitesi
 
 
 
